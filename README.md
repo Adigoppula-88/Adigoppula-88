@@ -1,16 +1,14 @@
-## Hi there 👋
+# Hi, I’m Yashwanth
 
-<!--
-**Adigoppula-88/Adigoppula-88** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I document hands-on cybersecurity projects focused on SOC monitoring, Windows telemetry, and malware investigation.
 
-Here are some ideas to get you started:
+## Featured Projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- [Wazuh SOC Home Lab](https://github.com/Adigoppula-88/Wazuh-SOC-Home-Lab) — Windows authentication and account-change investigations using Wazuh, with supporting lab evidence.
+- [FLARE-VM Malware Analysis](https://github.com/Adigoppula-88/FLARE-VM-Malware-Analysis) — static sample inspection, third-party threat intelligence, and a separate benign behavioral-monitoring experiment.
+
+## Areas of Practice
+
+Wazuh · Windows Security events · Active Directory · Sysmon · FLARE-VM · FLOSS · Process Monitor
+
+My reports distinguish direct observations, third-party findings, and analytical hypotheses.
